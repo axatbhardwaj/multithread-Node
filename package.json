@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@axatbhardwaj/randnum": "^1.0.12"
+    "argon2": "^0.31.1",
+    "express": "^4.18.2"
   }
 }
