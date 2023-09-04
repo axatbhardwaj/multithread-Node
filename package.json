@@ -1,0 +1,12 @@
+{
+  "name": "multithread-Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:axatbhardwaj/multithread-Node",
+  "author": "axatbhardwaj <axatbhardwaj@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@axatbhardwaj/randnum": "^1.0.12"
+  }
+}
